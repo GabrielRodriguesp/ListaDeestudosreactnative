@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: rgb(222, 166, 62);
+  justify-content: space-between;
+  height: 82px;
+}
+
+h2 {
+  /* position: absolute; */
+  margin: 20px 0px 15px 10px;
+}
+
+.numbers {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.confirmeds {
+  background-color: #cfb371;
+  padding: 30px 20px;
+}
+
+.studys {
+  background-color: #ece7d8;
+  padding: 30px 20px;
+}

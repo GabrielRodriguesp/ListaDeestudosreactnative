@@ -1,0 +1,30 @@
+.study-container {
+  background-color: #ecebd8;
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(0, 0, 0);
+  align-items: center;
+  font-size: larger;
+}
+
+.study-title {
+  cursor: pointer;
+  text-decoration: dashed;
+}
+
+.buttons-container {
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.remove-study-button {
+  background-color: #ecebd8;
+  border: none;
+  font-size: 24px;
+}
+
+.time {
+  margin-right: 15px;
+}
